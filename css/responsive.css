@@ -1,0 +1,117 @@
+
+@media(max-width:1199px){
+    .service-list ul li p {
+        font-size: 17px;
+    }
+    .location ul li h6 {
+        font-size: 15px;
+    }
+}
+@media(max-width:991px){
+    .top-location ul li h6 {
+        font-size: 12px;
+    }
+    .about-section .row{
+        display: block;
+    }
+    .about-content p {
+        margin-bottom: 25px;
+    }
+    .link ul li a {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .footer-address ul li h6 {
+        font-size: 14px;
+    }
+    .link ul h3 {
+        font-size: 17px;
+}
+}
+
+
+
+
+
+@media(max-width:768px){
+    .top-bar{
+        display: none;
+    }
+    .service-list ul li p {
+        font-size: 14px;
+    }
+    .heading h1 {
+        font-size: 36px;
+    }
+    .footer-address ul li h6 {
+        font-size: 14px;
+    }
+    .link ul h3 {
+        font-size: 17px;
+}
+.prokolpo-section h1 {
+    font-size: 28px;
+}
+.map {
+    margin-bottom: 20px;
+}
+}
+
+
+
+
+
+
+@media(max-width:576px){
+    .about-content p {
+        margin-bottom: 32px;
+    }
+    .heading h1 {
+        font-size: 23px;
+    }
+    .gallery {
+        margin-top: 5px;
+    }
+    .footer-address {
+        margin-bottom: 30px;
+    }
+    .background-banner p {
+        font-size: 26px;
+    }
+    .prokolpo-section h1 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .card .card-title {
+        font-size: 15px;
+    }
+    .card{
+        margin-top: 15px;
+    }
+    .monthly-contents {
+        margin: 40px 0px 25px 0px;
+    }
+    .section-team .single-person {
+        margin-top: 0px;
+      
+    }
+    .section-team {
+        padding:0px;
+        padding-bottom: 25px;
+    }
+
+    .location {
+        margin: 15px 0px;
+      
+    }
+    .address {
+        padding: 35px 0px 20px 0px;
+    }
+    .navbar-light .navbar-nav .active > .nav-link {
+        margin-left: 0px;
+    }
+    .section-team .single-person {
+        margin: 0px 50px;
+        margin-bottom: 20px;
+    }
+}
